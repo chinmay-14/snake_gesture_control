@@ -1,5 +1,4 @@
 🐍 Nokia Snake Game - Gesture Control
-Python OpenCV MediaPipe License: MIT
 
 Created by Chinmay Sharma
 
